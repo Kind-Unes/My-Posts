@@ -1,39 +1,43 @@
-# TypeThis Flutter Package
+# Liquid Pull to refresh Flutter Package
 
-📏Magic Liquid Pull To Refresh in Flutter ✨📱
+Unlock the Magic of Dynamic Typing Animations in Flutter with the "typethis" Package! 🚀
 
 ## Checkout the post from Here
 ### Linkedin:
-[![LinkedIn](https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/feed/update/urn:li:activity:7159233885199892481/)
+[![LinkedIn](https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/feed/update/urn:li:activity:7137101564627795968/)
 
 ### Package Link:
 🔗 Check out the Package on Pub.dev: <br>
-[![Liquid pull to refresh on Pub.dev](https://pub.dev/static/hash-sssmi4ln/img/pub-dev-logo.svg)](https://pub.dev/packages/pull_to_refresh_flutter3)
+[![typethis on Pub.dev](https://pub.dev/static/hash-sssmi4ln/img/pub-dev-logo.svg)](https://pub.dev/packages/typethis)
 
 ## Post Overview
 
-✅ A Flutter package for adding a smooth pull-down refresh and pull-up load for an enhanced user experience.
-
-📐 Features:
-1. Pull up load and pull down refresh
-2. It's almost fit for all Scroll witgets,like GridView,ListView...
-3. Provide global setting of default indicator and property
-4. Provide some most common indicators
-5. Support Android and iOS default ScrollPhysics,the overScroll distance can be controlled,custom spring animate,damping,speed.
+Hey Flutter fans! 🎉 Ever wanted dynamic typing animations? Look no further! ✨ Today, we'll explore "typethis," making your text pop with simplicity! 💬🚀
+Explore the magic of dynamic typing animations with the "typethis"
 
 ### Post Cover:
-![Liquid pull to refresh](https://media.licdn.com/dms/image/D5622AQEDNLCA5TDz8A/feedshare-shrink_800/0/1706894368816?e=1710374400&v=beta&t=Lx-jiwXIBCtpTjTE6ujxq9xQvJgpnakMthBBQHHDaZQ)
+![typethis Cover]([https://media.licdn.com/dms/image/D4D22AQEgluFrkKAs3Q/feedshare-shrink_800/0/1701554767198?e=1710374400&v=beta&t=20mJhVTpfa9iuygV7XM0MD7lqTZZSRF9f3eRJw1IUlk(https://media.licdn.com/dms/image/D5622AQEDNLCA5TDz8A/feedshare-shrink_800/0/1706894368816?e=1710374400&v=beta&t=Lx-jiwXIBCtpTjTE6ujxq9xQvJgpnakMthBBQHHDaZQ))
 
 ## Code Example:
 ```dart
-final LiquidPullToRefreshWidget = LiquidPullToRefresh(
-  // key if you want to add 
-  key : _refreshIndicatorKey,
-  // refresh callback
-  onRefresh:(){},
-  // your widget tree
-  child : MyWidgetTree(),
-)
+final TypeThisWidget = TypeThis(
+  // The text which will be animated
+  string: 'Hi there! HOW ARE YOU DOING,',
+  // Speed in milliseconds
+  speed: 100,
+  // Text style for the string
+  style: const TextStyle(fontSize: 20),
+);
+
+// Controllers
+// Used to reset the typing animation
+typeThisWidget.controller.reset();
+
+// Used to freeze the typing animation
+typeThisWidget.controller.freeze();
+
+// Used to unfreeze the typing animation
+typeThisWidget.controller.unfreeze();
 ```
 
 Follow Hellalet Younes for exceptional content covering Programming and Flutter Development 💎.
