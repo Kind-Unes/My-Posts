@@ -16,7 +16,7 @@ Hey Flutter fans! ðŸŽ‰ Ever wanted dynamic typing animations? Look no further! â
 Explore the magic of dynamic typing animations with the "typethis"
 
 ### Post Cover:
-![typethis Cover](https://media.licdn.com/dms/image/D4D22AQEgluFrkKAs3Q/feedshare-shrink_800/0/1701554767198?e=1710374400&v=beta&t=20mJhVTpfa9iuygV7XM0MD7lqTZZSRF9f3eRJw1IUlk)
+![typethis Cover]([https://media.licdn.com/dms/image/D4D22AQEgluFrkKAs3Q/feedshare-shrink_800/0/1701554767198?e=1710374400&v=beta&t=20mJhVTpfa9iuygV7XM0MD7lqTZZSRF9f3eRJw1IUlk](https://media.licdn.com/dms/image/D5622AQEDNLCA5TDz8A/feedshare-shrink_800/0/1706894368816?e=1710374400&v=beta&t=Lx-jiwXIBCtpTjTE6ujxq9xQvJgpnakMthBBQHHDaZQ))
 
 ## Code Example:
 ```dart
