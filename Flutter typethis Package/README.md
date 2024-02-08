@@ -5,6 +5,10 @@ Unlock the Magic of Dynamic Typing Animations in Flutter with the "typethis" Pac
 ## Checkout the post from Here
 [![LinkedIn](https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/feed/update/urn:li:activity:7137101564627795968/)
 
+### Package Link
+🔗 Check out the Package on Pub.dev:
+👉 [typethis on Pub.dev](https://pub.dev/packages/typethis)
+
 ## Post Overview
 
 Hey Flutter fans! 🎉 Ever wanted dynamic typing animations? Look no further! ✨ Today, we'll explore "typethis," making your text pop with simplicity! 💬🚀
@@ -12,10 +16,6 @@ Explore the magic of dynamic typing animations with the "typethis"
 
 ### Post Cover
 ![typethis Cover](https://media.licdn.com/dms/image/D4D22AQEgluFrkKAs3Q/feedshare-shrink_800/0/1701554767198?e=1710374400&v=beta&t=20mJhVTpfa9iuygV7XM0MD7lqTZZSRF9f3eRJw1IUlk)
-
-### Package Link
-🔗 Check out the Package on Pub.dev:
-👉 [typethis on Pub.dev](https://pub.dev/packages/typethis)
 
 ## Code Example 
 ```dart
