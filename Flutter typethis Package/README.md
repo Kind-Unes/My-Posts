@@ -7,8 +7,8 @@ Unlock the Magic of Dynamic Typing Animations in Flutter with the "typethis" Pac
 
 ### Package Link
 🔗 Check out the Package on Pub.dev:
-👉 [typethis on Pub.dev](https://pub.dev/packages/typethis)
-
+👉 [![typethis on Pub.dev](https://pub.dev/static/hash-sssmi4ln/img/pub-dev-logo.svg)](https://pub.dev/packages/typethis)
+(
 ## Post Overview
 
 Hey Flutter fans! 🎉 Ever wanted dynamic typing animations? Look no further! ✨ Today, we'll explore "typethis," making your text pop with simplicity! 💬🚀
