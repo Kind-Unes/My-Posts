@@ -1,4 +1,4 @@
-# TypeThis Flutter Package
+# Liquid Pull to refresh Flutter Package
 
 📏Magic Liquid Pull To Refresh in Flutter ✨📱
 
