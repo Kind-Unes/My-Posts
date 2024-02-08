@@ -15,7 +15,7 @@ Explore the magic of dynamic typing animations with the "typethis"
 
 ### Package Link
 🔗 Check out the Package on Pub.dev:
-👉 [typethis on Pub.dev](https://lnkd.in/dXE-qPKq)
+👉 [typethis on Pub.dev](https://pub.dev/packages/typethis)
 
 Follow Hellalet Younes for exceptional content covering Programming and Flutter Development 💎.
 
