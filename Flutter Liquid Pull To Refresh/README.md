@@ -1,4 +1,4 @@
-# TypeThis Flutter Package
+# Liquid Pull to refresh Flutter Package
 
 Unlock the Magic of Dynamic Typing Animations in Flutter with the "typethis" Package! 🚀
 
