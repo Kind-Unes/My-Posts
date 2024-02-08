@@ -17,6 +17,28 @@ Explore the magic of dynamic typing animations with the "typethis"
 🔗 Check out the Package on Pub.dev:
 👉 [typethis on Pub.dev](https://pub.dev/packages/typethis)
 
+## Code Example 
+```dart
+final TypeThisWidget = TypeThis(
+  // The text which will be animated
+  string: 'Hi there! HOW ARE YOU DOING,',
+  // Speed in milliseconds
+  speed: 100,
+  // Text style for the string
+  style: const TextStyle(fontSize: 20),
+);
+
+// Controllers
+// Used to reset the typing animation
+typeThisWidget.controller.reset();
+
+// Used to freeze the typing animation
+typeThisWidget.controller.freeze();
+
+// Used to unfreeze the typing animation
+typeThisWidget.controller.unfreeze();
+```
+
 Follow Hellalet Younes for exceptional content covering Programming and Flutter Development 💎.
 
 Feel free to explore, use, and contribute to the "typethis" package. If you have any questions or feedback, don't hesitate to reach out!
