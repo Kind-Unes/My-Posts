@@ -15,7 +15,7 @@ Unlock the Magic of Dynamic background Animations in Flutter with the "parallax_
 Get a parallax effect in the background of a page that responds to a corresponding sensor detection (Accelerometer, Gyroscope, User accelerometer, Magnetometer)
 
 ### Post Cover:
-![typethis Cover](https://media.licdn.com/dms/image/D4D22AQEgluFrkKAs3Q/feedshare-shrink_800/0/1701554767198?e=1710374400&v=beta&t=20mJhVTpfa9iuygV7XM0MD7lqTZZSRF9f3eRJw1IUlk)
+![Cover](https://media.licdn.com/dms/image/D4E22AQEv_BnWRcqSNA/feedshare-shrink_800/0/1707332329572?e=1710374400&v=beta&t=NyAvsF0ZIj8mnRRcgJVKNJILt6GDQihUpWNSsMrTrkg)
 
 
 ## Code Example:
