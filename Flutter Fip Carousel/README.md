@@ -14,9 +14,7 @@ I think it could be useful for stuff like:
 [![LinkedIn](https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/feed/update/urn:li:activity:7161070823967997953/)
 
 ### Package Link:
-🔗 Check out the Package on Pub.dev: <br>
 [![Package on Pub.dev](https://pub.dev/static/hash-sssmi4ln/img/pub-dev-logo.svg)](https://pub.dev/packages/flip_carousel)
-
 
 ### Post Cover:
 ![Package Cover](https://raw.githubusercontent.com/Kind-Unes/My-Posts/master/Flutter%20Fip%20Carousel/POST.gif)
