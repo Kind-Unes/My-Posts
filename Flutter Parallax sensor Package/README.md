@@ -1,7 +1,7 @@
 # Parallax Sensor BG Flutter Package
 
 Unlock the Magic of Dynamic background Animations in Flutter with the "parallax_sensors_bg" Package! 🚀
-
+ 
 ## Checkout the post from Here
 ### Linkedin:
 [![LinkedIn](https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/feed/update/urn:li:activity:7161070823967997953/)
