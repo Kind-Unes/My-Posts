@@ -19,7 +19,7 @@ I think it could be useful for stuff like:
 
 
 ### Post Cover:
-![Package Cover]([https://media.licdn.com/dms/image/D4D22AQEgluFrkKAs3Q/feedshare-shrink_800/0/1701554767198?e=1710374400&v=beta&t=20mJhVTpfa9iuygV7XM0MD7lqTZZSRF9f3eRJw1IUlk(https://media.licdn.com/dms/image/D4E22AQEv_BnWRcqSNA/feedshare-shrink_800/0/1707332329572?e=1710374400&v=beta&t=NyAvsF0ZIj8mnRRcgJVKNJILt6GDQihUpWNSsMrTrkg)])
+![Package Cover](https://raw.githubusercontent.com/Kind-Unes/My-Posts/master/Flutter%20Fip%20Carousel/POST.gif)
 
 ## Code Example:
 ```dart
