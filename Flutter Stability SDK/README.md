@@ -7,12 +7,12 @@ I find it helpful, especially when integrating AI into Flutter apps. :D
 
 
 ## Checkout the post from Here
+### Package Link:
+[![Package on Pub.dev](https://pub.dev/static/hash-sssmi4ln/img/pub-dev-logo.svg)](https://pub.dev/packages/stability_sdk)
+
 ### Linkedin:
 [![LinkedIn](https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/feed/update/urn:li:activity:7161070823967997953/)
 
-### Package Link:
-🔗 Check out the Package on Pub.dev: <br>
-[![Package on Pub.dev](https://pub.dev/static/hash-sssmi4ln/img/pub-dev-logo.svg)](https://pub.dev/packages/stability_sdk)
 
 
 ### Post Cover:
