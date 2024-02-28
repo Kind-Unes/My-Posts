@@ -16,7 +16,7 @@ I find it helpful, especially when integrating AI into Flutter apps. :D
 
 
 ### Post Cover:
-![Package Cover]([https://media.licdn.com/dms/image/D4D22AQEgluFrkKAs3Q/feedshare-shrink_800/0/1701554767198?e=1710374400&v=beta&t=20mJhVTpfa9iuygV7XM0MD7lqTZZSRF9f3eRJw1IUlk(https://github.com/Kind-Unes/My-Posts/blob/master/Flutter%20Stability%20SDK/POST.gif)])
+![Preview](https://github.com/Kind-Unes/My-Posts/blob/master/Flutter%20Stability%20SDK/POST.gif)
 
 ## Code Example:
 ```dart
