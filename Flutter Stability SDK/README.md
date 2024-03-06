@@ -7,16 +7,16 @@ I find it helpful, especially when integrating AI into Flutter apps. :D
 
 
 ## Checkout the post from Here
-### Linkedin:
-[![LinkedIn](https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/feed/update/urn:li:activity:7161070823967997953/)
-
 ### Package Link:
-🔗 Check out the Package on Pub.dev: <br>
 [![Package on Pub.dev](https://pub.dev/static/hash-sssmi4ln/img/pub-dev-logo.svg)](https://pub.dev/packages/stability_sdk)
+
+### Linkedin:
+[![LinkedIn](https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/feed/update/urn:li:groupPost:8833665-7168413300676894720/)
+
 
 
 ### Post Cover:
-![Package Cover]([https://media.licdn.com/dms/image/D4D22AQEgluFrkKAs3Q/feedshare-shrink_800/0/1701554767198?e=1710374400&v=beta&t=20mJhVTpfa9iuygV7XM0MD7lqTZZSRF9f3eRJw1IUlk(https://media.licdn.com/dms/image/D4E22AQEv_BnWRcqSNA/feedshare-shrink_800/0/1707332329572?e=1710374400&v=beta&t=NyAvsF0ZIj8mnRRcgJVKNJILt6GDQihUpWNSsMrTrkg)])
+![Preview](https://github.com/Kind-Unes/My-Posts/blob/master/Flutter%20Stability%20SDK/POST.gif)
 
 ## Code Example:
 ```dart
