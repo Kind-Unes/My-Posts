@@ -9,8 +9,8 @@
 Hey Flutter fans! 🎉, it's sometimes a bit exhausting to build a sidebar from scratch (drawers), but this problem won't exist anymore with SideBarX Flutter package which offers a built in sidebars taht ease the drawers creation process !
 
 ### Post Cover:
-![typethis Cover]()
-
+![typethis Cover](https://github.com/Kind-Unes/My-Posts/blob/master/SideBarX/content-2.gif)
+![typethis Cover](https://github.com/Kind-Unes/My-Posts/blob/master/SideBarX/content-1.png)
 
 ## Code Example:
 ```dart
