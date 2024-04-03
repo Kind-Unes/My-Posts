@@ -8,12 +8,12 @@ Unlock the Magic of Dynamic cherry toasts in Flutter with the "cherry_taost" Pac
 
 ### Package Link: 
 🔗 Check out the Package on Pub.dev: <br>
-[![typethis on Pub.dev](https://pub.dev/static/hash-sssmi4ln/img/pub-dev-logo.svg)](https://pub.dev/packages/typethis)
+[![typethis on Pub.dev](https://pub.dev/static/hash-sssmi4ln/img/pub-dev-logo.svg)](https://pub.dev/packages/cherry_toast)
 
 ## Post Overview
 
 Flutter Cherry Toast for better flutter toast view
 ### Post Cover:
-![typethis Cover](https://media.licdn.com/dms/image/D4D22AQEgluFrkKAs3Q/feedshare-shrink_800/0/1701554767198?e=1710374400&v=beta&t=20mJhVTpfa9iuygV7XM0MD7lqTZZSRF9f3eRJw1IUlk)
+![typethis Cover](https://github.com/Kind-Unes/My-Posts/blob/master/CherryToast/POST.gif)
 
 
