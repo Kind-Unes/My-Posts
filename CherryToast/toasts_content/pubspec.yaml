@@ -1,0 +1,26 @@
+name: toasts_content
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  cherry_toast: ^1.9.1
+  flutter:
+    sdk: flutter
+  flutter_localization: ^0.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  fonts:
+    - family: SFProDisplay
+      fonts:
+        - asset: fonts/SFPRODISPLAYMEDIUM.OTF
+
+  uses-material-design: true
